@@ -349,6 +349,7 @@ title: Scientific Research Codes
 - [LASIF](http://www.lasif.net): Framework for large scale full waveform inversion
 - [seisDD](https://github.com/yanhuay/seisDD): Double-difference adjoint seismic tomography
 - [Salvus](https://salvus.io): Full waveform modelling and inversion
+- [SeisElastic2D_1.1](https://github.com/PanIGGCAS/SeisElastic2D_1.1) An open-source package for multiparameter FWI in isotropic-, anisotropic- and visco-elastic media version 1.1
 
 ## Shear Wave Splitting
 
